@@ -1,6 +1,8 @@
 .venv/
 __pychache__/
+*.pyc 
 *.log
 .DS_Store
 .env
 .streamlit/secrets.toml
+outputs/
